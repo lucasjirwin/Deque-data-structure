@@ -1,7 +1,5 @@
 /* *****************************************************************************
  *  Name:    Lucas Irwin
- *  NetID:   ljirwin
- *  Precept: P06
  *
  *  Description: Creates a Deque data type (using a doubly-linked list) which is
  *               a generalization of a stack and a queue. The deque supports
